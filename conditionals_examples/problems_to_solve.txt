@@ -1,0 +1,29 @@
+Ejercicio 01
+
+Tenemos que definir qué ropa tengo que usar, según las condiciones del clima. Para ello, tenemos las siguientes definiciones.
+
+1. Si la temperatura es mayor a 30 grados, uso polera y short
+2. Si la temperatura es mayor a 20 y menor a 30 grados, uso polera y jeans
+3. Si la temperatura es mayor a 10 y menor o igual a 20, uso polera, jeans y camisa
+4. Si la temperatura es menor a 10 grados usaré parca y jeans
+
+Además, si la probabilidad de lluvia es mayor al 50%, debo llevar paraguas.
+
+Script que implemente la solución de qué ropa debo usar según las condiciones climáticas.
+
+Entradas: Temperatura, humedad/pbb de lluvia
+Salidas: Qué ropa debo usar.
+Proceso: dada las condiciones debo indicar qué ropa puedo usar.
+
+Ejercicio 02:
+
+Queremos hacer una calculadora, para ello, vamos a necesitar dos entradas, asociadas a números.
+
+De manera adicional, vamos a definir cada operación y mediante decisiones, vamos a definir qué operación será ejecutada.
+
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+5. Sacar porcentaje
+6. Potencia
