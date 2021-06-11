@@ -16,7 +16,7 @@ elif option_print == 2:
     print("opcion 02 izquierda a derecha con base decreciente")
     #opcion 02 izquierda a derecha con base decreciente
     for k in range(altura, 0, -1):
-        row = "*"*k
+        row = caracter*k
         print(row)
 
 elif option_print == 3:
